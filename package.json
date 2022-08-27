@@ -6,7 +6,8 @@
   "scripts": 
   {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild": "npm run build"
+    "heroku-postbuild": "npm run build",
+    "build": "react-scripts build"
   },
   "engines":
   {
